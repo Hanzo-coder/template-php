@@ -1,4 +1,4 @@
-tipo: A
-Nome:
-Valor: 185.199.108.153
-TTL: padrao
+tipo: CNAME
+Nome:www.
+Valor: hanzo-coder.github.io
+TTL: Automático
